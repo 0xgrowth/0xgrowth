@@ -14,6 +14,14 @@
  <!-- About section -->
 
 --- FULL STACK DEVELOPER
+## Tech Stack:
+- React
+- Flask
+- MongoDB
+- Laravel
+- Bootstrap
+- Python
+
    
    ## ∞ Having Fun Building ∞
 
