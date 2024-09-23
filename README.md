@@ -15,10 +15,8 @@
  <!-- About section -->
 
 --- 👨🏽‍💻 FULL STACK DEVELOPER
-saving up for a new PC. 
-
-# Amount saved so far: $2.26
- Will Keep Updating Amount. 
+<br>
+saving up for a new PC. Amount saved so far: $2.26
 
 ## Tech Stack:
 - React
