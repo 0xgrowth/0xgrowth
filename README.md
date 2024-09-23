@@ -13,7 +13,7 @@
 
  <!-- About section -->
 
---- FULL STACK DEVELOPER
+--- 👨🏽‍💻 FULL STACK DEVELOPER
 ## Tech Stack:
 - React
 - Flask
