@@ -23,6 +23,7 @@ saving up for a new PC. Amount saved so far: $2.26
 - MongoDB
 - Laravel
 - Bootstrap
+- Tailwind
 - Python
 
    
