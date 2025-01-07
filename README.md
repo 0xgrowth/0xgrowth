@@ -18,6 +18,7 @@
 saving up for a new PC. Amount saved so far: $2.26
 
 ## Tech Stack:
+- ExpressJS
 - React
 - Flask
 - CSS
