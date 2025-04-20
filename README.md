@@ -18,12 +18,14 @@
 saving up for a new PC. Amount saved so far: $2.26
 
 ## Tech Stack:
+- MongoDB
 - ExpressJS
 - React
+- NodeJs
+- Bootstrap
 - Flask
 - CSS
 - Laravel
-- Bootstrap
 - Tailwind
 - Python
 
