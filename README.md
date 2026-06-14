@@ -15,9 +15,9 @@
 
 --- 👨🏽‍💻 FULL STACK DEVELOPER
 <br>
-saving up for a new PC. Amount saved so far: $2.26
 
 ## Tech Stack:
+- GOLANG
 - MongoDB
 - ExpressJS
 - React
