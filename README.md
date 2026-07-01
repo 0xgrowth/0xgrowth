@@ -21,6 +21,7 @@
 - MongoDB
 - ExpressJS
 - React
+- React Native
 - NodeJs
 - Bootstrap
 - Flask
